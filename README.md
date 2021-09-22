@@ -24,12 +24,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="sdarwai GitHub Stats" src="https://github-readme-stats.sdarwai15.vercel.app/api?username=sdarwai15&show_icons=true&hide_border=true" />
-
-</details>
 
 [instagram]: https://instagram.com/s.darwai
 [linkedin]: https://linkedin.com/in/sourabh-darwai
