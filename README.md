@@ -17,7 +17,7 @@ Let's create something exceptional !
 
 ### Languages and Tools:
 
-<img align="left" alt="Adobe XD" width="26px" src="https://i.pinimg.com/564x/3a/8b/6a/3a8b6a745c24bfa6526f009e2b209b1d.jpg" />
+<img align="left" alt="Adobe XD" width="26px" src="https://logowiki.net/uploads/logo/a/adobe-xd-1.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
