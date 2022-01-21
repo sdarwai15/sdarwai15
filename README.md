@@ -22,7 +22,7 @@ Let's create something exceptional !
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScriptES6" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png" />
-<img align="left" alt="NodeJS" width="26px" src="https://github.com/FransLopez/logo-images/blob/master/logos/nodejs.png" />
+<img align="left" alt="NodeJS" width="26px" src="https://nodejs.org/static/images/logo.svg" />
 <img align="left" alt="ExpressJS" width="26px" src="https://github.com/FransLopez/logo-images/blob/master/logos/nodejs.png" />
 <img align="left" alt="passport" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/passport.png" />
 <img align="left" alt="SocketIO" width="26px" src="https://socket.io/assets/img/logo.svg)](https://socket.io/" />
