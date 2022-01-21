@@ -27,7 +27,7 @@ Let's create something exceptional !
 <img align="left" alt="ExpressJS" width="55px" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" />
 <img align="left" alt="passport" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/passport.png" />
 <img align="left" alt="SocketIO" width="26px" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" />
-<img align="left" alt="mongoDB" width="42px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" />
+<img align="left" alt="mongoDB" width="57px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" />
 <img align="left" alt="mongoose" width="60px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png" />
 <img align="left" alt="npm" width="40px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />
 <img align="left" alt="LocomotiveJS" width="26px" src="https://user-images.githubusercontent.com/4596862/58807621-67aeec00-85e6-11e9-8e3a-3fe4123ee76c.png" />
