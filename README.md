@@ -1,44 +1,20 @@
-### Hi there, I'm Sourabh Darwai 👋
+<h1 align="center">Hi 👋, I'm Sourabh Darwai</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-## Hey! I'm a creative UI Designer and Node.JS Developer ! 
+- 💬 Ask me about **JAVASCRIPT, Node.js, Express.js, Axios, Socket.io, JWT, OAuth, MongoDB, MySQL, Next.js, React.js, Redux, Redux-toolkit, Material UI, Ant Design, CSS, HTML**
 
-Hey! I'm a creative UI Designer and Node.JS Developer, as a designer & developer I provide your product / project higher level of quality output and add more value to it by theme based UI Design.
+- 📫 How to reach me **sdarwai15@gmail.com**
 
-My objective is to provide sleek, refreshing and captivating experiences that adds value to the products of my client.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sourabh-darwai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh-darwai" height="30" width="40" /></a>
+<a href="https://instagram.com/s.darwai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.darwai" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sdarwai15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sdarwai15" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sdarwai15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sdarwai15" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/sdarwai15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sdarwai15" height="30" width="40" /></a>
+</p>
 
-Let's create something exceptional !
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-### Connect with me:
-
-[<img align="left" alt="sdarwai15 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sdarwai15 | Gmail" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />][gmail]
-[<img align="left" alt="sdarwai15 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Adobe XD" width="25px" src="https://logowiki.net/uploads/logo/a/adobe-xd-1.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScriptES6" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png" />
-<img align="left" alt="NodeJS" width="32px" src="https://nodejs.org/static/images/logo.svg" />
-<img align="left" alt="ExpressJS" width="55px" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" />
-<img align="left" alt="passport" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/passport.png" />
-<img align="left" alt="SocketIO" width="26px" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" />
-<img align="left" alt="mongoDB" width="57px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" />
-<img align="left" alt="mongoose" width="60px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png" />
-<img align="left" alt="npm" width="40px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png" />
-<img align="left" alt="LocomotiveJS" width="26px" src="https://user-images.githubusercontent.com/4596862/58807621-67aeec00-85e6-11e9-8e3a-3fe4123ee76c.png" />
-<img align="left" alt="GSAP" width="75px" src="https://greensock.com/uploads/set_resources_5/84c1e40ea0e759e3f1505eb1788ddf3c_greensock-logo.svg" />
-<img align="left" alt="bootstrap" width="26px" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-<br />
-
-[instagram]: https://instagram.com/s.darwai
-[linkedin]: https://linkedin.com/in/sourabh-darwai
-[gmail]: mailto:sdarwai15@gmail.com
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdarwai15&show_icons=true&locale=en&layout=compact" alt="sdarwai15" /></p>
