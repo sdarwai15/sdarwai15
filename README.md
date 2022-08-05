@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourabh Darwai</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-**JAVASCRIPT, Node.js, Express.js, Axios, Socket.io, JWT, OAuth, MongoDB, MySQL, Next.js, React.js, Redux-toolkit, Material UI, Ant Design, CSS, HTML**
 
 - 📫 How to reach me **sdarwai15@gmail.com**
 
