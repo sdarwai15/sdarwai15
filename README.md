@@ -6,20 +6,6 @@
 ### <div align="center">I'm Sourabh, a Full-Stack Developer👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on Disney+ Hotstar clone  
-  
-
-- 🌱 I’m currently learning TensorFlow.js  
-  
-
-- ❓ Ask me about anything related to MERN Stack and related 
-technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
 
 
 ## My Skill Set  
