@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **DevOps**.
 
-- 💬 Ask me about **JavaScript, TypeScript, MERN**.
-
 - 📫 How to reach me **sdarwai15@gmail.com**
 
 <br />
