@@ -8,7 +8,7 @@
 
 <br />
 
-- 🔭 I’m currently working on **Movie Recommendation System**.
+- 🔭 I’m currently working on **E-Commerce Application**.
 
 - 🌱 I’m currently learning **DevOps**.
 
