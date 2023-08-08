@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Application**.
 
-- 🌱 I’m currently learning **DevOps**.
+- 🌱 I’m currently learning **Web 3.0 and Blockchain**.
 
 - 📫 How to reach me **sdarwai15@gmail.com**
 
