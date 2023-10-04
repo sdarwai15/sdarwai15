@@ -3,15 +3,12 @@
 ###
 
 <div align="center">
+  <img height="155" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
 </div>
 
 ###
 
-<img align="right" height="155" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
@@ -63,7 +60,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:sdarwai15@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
