@@ -76,9 +76,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sdarwai15/sdarwai15/output/snake.svg" alt="Snake animation" />
-
-###
